@@ -5,7 +5,7 @@ import (
 	"docker/domain"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
-	"os"
+	//"os"
 )
 
 var DB *gorm.DB
